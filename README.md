@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Faria Malik
 
-<!--
-**FMCollection/FMCollection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **FMCollection** — my centralized portfolio hub for web applications, utilities, and creative digital projects built with modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+* 🎓 Computer Science Graduate (B.S. CS) with a strong foundation in software development.
+* 💻 Passionate about building clean, functional, and interactive web applications.
+* 🛠️ Focused on turning ideas into reality using modern frontend and backend tools.
+
+---
+
+### 🛠️ Tech Stack & Skills
+* **Languages & Core:** HTML5, CSS3, JavaScript, jQuery
+* **Frameworks & CMS:** WordPress, WooCommerce
+* **Databases & Tools:** MySQL, Git, GitHub
+
+---
+
+### 🌟 Featured Projects
+* **E-Commerce Platform (Heritage Jackets):** Built complete system specifications, database architecture, and frontend UI design.
+* **Web Utilities & Apps:** A collection of interactive utilities and upcoming dynamic web applications.
+
+---
+
+### 📫 Connect With Me & Portfolio 
+* **GitHub:** [FMCollection](https://github.com/FMCollection)
+* **Live Website:** [fmcollection.github.io](https://fmcollection.github.io/)
+
+
