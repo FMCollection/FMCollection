@@ -43,11 +43,10 @@
 
 ## 🌟 Featured Projects
 
-### 🛍️ E-Commerce Platform — Heritage Jackets
-Built complete system specifications, database architecture, and frontend UI design for a full e-commerce solution.
+### 🧮 VitalCalc — Multi Health Metrics Calculator
+An interactive web-based calculator that helps users track and calculate multiple health metrics — including BMI, calorie needs, and more — all in one place.
 
-<!-- Optional: add a screenshot or live demo link here, e.g. -->
-<!-- 🔗 [Live Demo](#) &nbsp;|&nbsp; 📄 [Case Study](#) -->
+🔗 [Live Demo](https://fmcollection.github.io/)
 
 ### 🧰 Web Utilities & Apps
 A growing collection of interactive utilities and upcoming dynamic web applications.
